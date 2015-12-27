@@ -4,7 +4,7 @@
 
 Run the code (run_analysis.R) in R.  Set your working directory to the file that contains the unzipped phone data file.  Once you set your working directory, you should be able to run the code and get the tidy data output that I uploaded in the assessment. 
 
-## Data Dictoinary
+## Data Dictionary
 
 #### Part 1
 
