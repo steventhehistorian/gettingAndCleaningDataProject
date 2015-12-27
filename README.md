@@ -1,15 +1,19 @@
-# gettingAndCleaningDataProject
+# Final Project Details.
+
+## Code description
+
+Run the code (run_analysis.R) in R.  Set your working directory to the file that contains the unzipped phone data file.  Once you set your working directory, you should be able to run the code and get the tidy data output that I uploaded in the assessment. 
 
 ## Data Dictoinary
 
-### Part 1
+#### Part 1
 
 "Subject" - The serial number of the test subject. 
 
 "Activity" - The mean of the activity (6 total) being measured
 
-## Part 2
-#### each of the following 178 variables is the average mean and standard deviation of either the x,y, or z axis of the phone sensor.  
+#### Part 2
+##### each of the following 178 variables is the average mean and standard deviation of either the x,y, or z axis of the phone sensor.  
 
 "time_BodyAccelerate-mean-X" 
 
