@@ -1,13 +1,17 @@
 # gettingAndCleaningDataProject
 
 ## Data Dictoinary
-"x"
 
-"Subject"
+### Part 1
 
-"Activity"
+"Subject" - The serial number of the test subject. 
 
-"time_BodyAccelerate-mean-X"
+"Activity" - The mean of the activity (6 total) being measured
+
+## Part 2
+#### each of the following 178 variables is the average mean and standard deviation of either the x,y, or z axis of the phone sensor.  
+
+"time_BodyAccelerate-mean-X" 
 
 "time_BodyAccelerate-mean-Y"
 
